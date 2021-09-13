@@ -1,5 +1,5 @@
 
-# Handwritten-Formula-recongnition
+# Handwritten-Formula recognition and generation
 
 
 # dataset
@@ -25,3 +25,9 @@ https://github.com/JianshuZhang/WAP
 
 
 https://github.com/JianshuZhang/WAP
+
+
+
+# Generation
+Unsupervised Training Data Generation of Handwritten Formulas using Generative Adversarial Networks with Self-Attention
+https://github.com/TIBHannover/formula_gan
